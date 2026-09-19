@@ -1,6 +1,6 @@
 {
   "name": "musecore",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Desktop DAW and beatmaking app for drum MIDI composition, mixing, metronome practice, local library and cloud-ready sync.",
   "main": "dist-electron/main.js",
   "scripts": {
